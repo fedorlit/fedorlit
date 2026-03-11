@@ -8,7 +8,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 - 🌱 Focused on writing **clean, maintainable, and scalable code**.
 - 📱 Interested in **modern Android development and architecture patterns**.
 
----
+
 
 # 🧑‍💻 Android Development
 
@@ -27,7 +27,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 ### ☁️ Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+
 
 # 🛠️ Skills & Technologies
 
@@ -39,7 +39,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+
 
 # 🧰 Tools & Platforms
 
@@ -48,7 +48,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
 
 # 📫 How to reach me
 
@@ -56,7 +56,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
----
+
 
 # 📊 GitHub Stats
 
@@ -64,6 +64,6 @@ I am a beginner **Android app developer** passionate about creating modern mobil
   <img align="center" alt="Fedor's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorlit&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" />
 </a>
 
----
+
 
 ### 🌟 Thanks for visiting my profile!
