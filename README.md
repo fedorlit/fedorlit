@@ -2,13 +2,7 @@
 
 # 👋 Hello, I'm Fedor Litvinov!
 
-I am a beginner **Android app developer** passionate about creating modern mobile applications.
-
-- 🚀 Currently learning and improving my **Android development skills with Kotlin**.
-- 🌱 Focused on writing **clean, maintainable, and scalable code**.
-- 📱 Interested in **modern Android development and architecture patterns**.
-
-
+I am a beginner **Android app developer**.
 
 # 🧑‍💻 Android Development
 
@@ -26,7 +20,7 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 
 ### ☁️ Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![Room](https://img.shields.io/badge/Room-SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 # 🛠️ Skills & Technologies
@@ -50,11 +44,11 @@ I am a beginner **Android app developer** passionate about creating modern mobil
 
 
 
-# 📫 How to reach me
+# 📫 Email
 
-- **Email:** [Fedorlit2550@gmail.com](mailto:Fedorlit2550@gmail.com)
+- [Fedorlit2550@gmail.com](mailto:Fedorlit2550@gmail.com)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 
 
