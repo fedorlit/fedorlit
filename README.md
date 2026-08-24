@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Fedor Litvinov!
 
-I am a beginner **Android app developer**.
+I'm a beginner **Android app developer**.
 
 # 🧑‍💻 Android Development
 
@@ -47,17 +47,3 @@ I am a beginner **Android app developer**.
 # 📫 Email
 
 - [Fedorlit2550@gmail.com](mailto:Fedorlit2550@gmail.com)
-
-
-
-
-
-# 📊 GitHub Stats
-
-<a href="https://github.com/fedorlit">
-  <img align="center" alt="Fedor's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorlit&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects" />
-</a>
-
-
-
-### 🌟 Thanks for visiting my profile!
